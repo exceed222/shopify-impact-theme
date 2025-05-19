@@ -56,11 +56,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-shield",
-            "custom_icon": "shopify://shop_images/verified_100dp_E60000.png",
             "mobile_icon_width": 48,
             "icon_width": 44,
             "icon_background_type": "none",
-            "icon_background": "#ff0000",
+            "icon_background": "#000000",
             "icon_color": "#ff0000",
             "title": "2-Metų Garantija",
             "content": ""
