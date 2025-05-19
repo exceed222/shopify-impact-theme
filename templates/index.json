@@ -56,7 +56,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-shield",
-            "mobile_icon_width": 48,
+            "mobile_icon_width": 44,
             "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "#000000",
@@ -68,14 +68,14 @@
         "item_wBaVjx": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon": "picto-truck",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
+            "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "icon_color": "#ff0000",
+            "title": "Nemokamas ir Greitas Pristatymas",
+            "content": ""
           }
         },
         "item_fxWi7h": {
@@ -90,12 +90,26 @@
             "title": "Secure payment",
             "content": "<p>Your payment information is processed securely.</p>"
           }
+        },
+        "item_fMTYer": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
         }
       },
       "block_order": [
         "item_Q9HJqc",
         "item_wBaVjx",
-        "item_fxWi7h"
+        "item_fxWi7h",
+        "item_fMTYer"
       ],
       "custom_css": [],
       "name": "Text with icons",
