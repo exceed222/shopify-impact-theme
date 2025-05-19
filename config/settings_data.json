@@ -36,14 +36,7 @@
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "checkout_accent_color": "#f0c417",
-    "checkout_button_color": "#1a1a1a",
-    "blocks": {
-      "5134484470793087125": {
-        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "checkout_button_color": "#1a1a1a"
   },
   "presets": {
     "Sound": {
