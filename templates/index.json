@@ -170,14 +170,16 @@
         "logo_AxUnE4": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/20211208172139_609672e7-4cff-4120-a365-e839083f6a44.webp",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_8JHBUM": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/18_-removebg-preview.png",
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -218,12 +220,12 @@
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     }
