@@ -256,22 +256,22 @@
     "blog_posts_47XCgR": {
       "type": "blog-posts",
       "blocks": {
-        "article_MNQDPg": {
-          "type": "article",
+        "blog_RJm3T4": {
+          "type": "blog",
           "settings": {
-            "article": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-            "background": "",
-            "text_color": ""
+            "blog": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+            "posts_count": 3,
+            "stack_items": false
           }
         }
       },
       "block_order": [
-        "article_MNQDPg"
+        "blog_RJm3T4"
       ],
       "name": "Blog posts",
       "settings": {
         "full_width": true,
-        "show_excerpt": false,
+        "show_excerpt": true,
         "show_date": false,
         "show_author": false,
         "show_comments_count": false,
@@ -280,6 +280,41 @@
         "title": "Naujausi tinklaraščio įrašai",
         "content": "",
         "link_url": "shopify://blogs/kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+        "link_text": "Žr. Viska",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "blog_posts_QfTfPA": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_LCGyNV": {
+          "type": "blog",
+          "settings": {
+            "blog": "kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_LCGyNV"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
         "link_text": "Žr. Viska",
         "background": "",
         "background_gradient": "",
@@ -296,6 +331,7 @@
     "text_with_icons_d47ytw",
     "logo_list_Xt8nQ6",
     "newsletter_aDG4x4",
-    "blog_posts_47XCgR"
+    "blog_posts_47XCgR",
+    "blog_posts_QfTfPA"
   ]
 }
