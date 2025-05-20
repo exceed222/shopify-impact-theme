@@ -105,17 +105,17 @@
     "blog_posts_gR8Xgz": {
       "type": "blog-posts",
       "blocks": {
-        "article_Hm6yMQ": {
-          "type": "article",
+        "blog_mV7XQm": {
+          "type": "blog",
           "settings": {
-            "article": "news/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-            "background": "",
-            "text_color": ""
+            "blog": "",
+            "posts_count": 3,
+            "stack_items": false
           }
         }
       },
       "block_order": [
-        "article_Hm6yMQ"
+        "blog_mV7XQm"
       ],
       "name": "Blog posts",
       "settings": {
