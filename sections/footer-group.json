@@ -14,16 +14,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links_EzCxce": {
+        "links_VTjykF": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "pagalba",
             "show_menu_title": true
           }
         }
       },
       "block_order": [
-        "links_EzCxce"
+        "links_VTjykF"
       ],
       "settings": {
         "show_social_media": true,
