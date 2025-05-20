@@ -86,6 +86,13 @@
             "title": "Nemokamas Pristatymas",
             "content": "<p>Nemokamas pristatymas visiems elektriniams dviračiams. Visos pristatymo išlaidos ir mokesčiai apmokami Eleride. Priedai ir dalys į pristatymą neįskaičiuoti. Siuntos pristatomos per kurjerius pagal iš anksto nustatytus maršrutus, todėl nėra galimybės pasirinkti tikslaus pristatymo laiko. Kurjeriai: DPD – 3–7 d. d., UPS – 3–5 d. d. Pristatymas gali vėluoti savaitgaliais ir švenčių dienomis. Užsakymai, pateikti ne darbo dienomis, apdorojami pirmadienį–penktadienį.</p>"
           }
+        },
+        "collapsible_text_HQkE4K": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "30-Dienų Grąžinimas",
+            "content": "<p>Mes taikome 30 dienų grąžinimo politiką, tai reiškia, kad turite 30 dienų nuo prekės gavimo dienos pateikti prašymą dėl grąžinimo.</p><p>Jei per grąžinimo laikotarpį prekė trukdo įprastam dviračio naudojimui, priimsime grąžinimą ir grąžinsime pinigus. Jei defektas yra nedidelis, pasiūlysime atitinkamą kompensaciją ir atsargines dalis.</p><p>Eleride nepadengia kliento prekių grąžinimo siuntimo išlaidų.</p>"
+          }
         }
       },
       "block_order": [
@@ -100,7 +107,8 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_nFcPyT",
-        "collapsible_text_pxLjbN"
+        "collapsible_text_pxLjbN",
+        "collapsible_text_HQkE4K"
       ],
       "settings": {
         "full_width": true,
