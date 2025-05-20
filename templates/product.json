@@ -79,6 +79,13 @@
             "title": "2-Metų Garantija.",
             "content": "<p>Mūsų garantija apima visus naujų elektrinių dviračių gamybos defektus 2 metus nuo pirkimo datos. Jei laikomasi priežiūros standartų, mes suremontuosime jūsų elektrinį dviratį ir padengsime visas susijusias dalis, išlaidas bei darbų kainą. Jei reikia remonto arba dalys nėra įtrauktos į mūsų garantiją, praneškite mums, ir mes stengsimės padėti – dažniausiai galime diagnozuoti problemą ir atsiųsti mokamas atsargines dalis. Jei jūsų dviratis turi būti grąžintas remontui, bendradarbiausime su jumis, kad sumažintume išlaidas ir darbų apimtį.<br/><br/></p>"
           }
+        },
+        "collapsible_text_pxLjbN": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Nemokamas Pristatymas",
+            "content": "<p>Nemokamas pristatymas visiems elektriniams dviračiams. Visos pristatymo išlaidos ir mokesčiai apmokami Eleride. Priedai ir dalys į pristatymą neįskaičiuoti. Siuntos pristatomos per kurjerius pagal iš anksto nustatytus maršrutus, todėl nėra galimybės pasirinkti tikslaus pristatymo laiko. Kurjeriai: DPD – 3–7 d. d., UPS – 3–5 d. d. Pristatymas gali vėluoti savaitgaliais ir švenčių dienomis. Užsakymai, pateikti ne darbo dienomis, apdorojami pirmadienį–penktadienį.</p>"
+          }
         }
       },
       "block_order": [
@@ -92,7 +99,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible_text_nFcPyT"
+        "collapsible_text_nFcPyT",
+        "collapsible_text_pxLjbN"
       ],
       "settings": {
         "full_width": true,
