@@ -63,7 +63,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Akcijos",
+        "title": "Populiariausi pasiūlymai",
         "content": "",
         "link_url": "",
         "link_text": "Žr. Viska",
@@ -100,41 +100,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "blog_posts_gR8Xgz": {
-      "type": "blog-posts",
-      "blocks": {
-        "article_FKdp6Q": {
-          "type": "article",
-          "settings": {
-            "article": "news/kaip-issirinkti-elektrini-dvirati-savo-poreikiams-1",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "article_FKdp6Q"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": false,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "Patarimai ir įkvėpimas",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "logo_list_Xt8nQ6": {
@@ -218,7 +183,6 @@
     "slideshow",
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
-    "blog_posts_gR8Xgz",
     "logo_list_Xt8nQ6",
     "newsletter_aDG4x4"
   ]
