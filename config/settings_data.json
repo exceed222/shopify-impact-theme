@@ -39,6 +39,7 @@
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "show_quick_buy": true,
+    "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_icon": "shopping_cart",
