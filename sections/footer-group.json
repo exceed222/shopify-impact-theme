@@ -13,26 +13,6 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "atraskite",
-            "show_menu_title": true
-          }
-        },
-        "links_R88pbn": {
-          "type": "links",
-          "settings": {
-            "menu": "pagalba",
-            "show_menu_title": true
-          }
-        }
-      },
-      "block_order": [
-        "links",
-        "links_R88pbn"
-      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": false,
