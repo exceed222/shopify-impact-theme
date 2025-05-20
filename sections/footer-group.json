@@ -20,10 +20,18 @@
             "menu": "pagalba",
             "show_menu_title": true
           }
+        },
+        "links_gABCkA": {
+          "type": "links",
+          "settings": {
+            "menu": "apie",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
-        "links_VTjykF"
+        "links_VTjykF",
+        "links_gABCkA"
       ],
       "settings": {
         "show_social_media": true,
