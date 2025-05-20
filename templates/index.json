@@ -222,6 +222,23 @@
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
+    },
+    "newsletter_iEiCq3": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Naujienlaiškis",
+        "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
+        "button_text": "Pateikti",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -229,6 +246,7 @@
     "text_with_icons_eMRbTM",
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
-    "logo_list_Xt8nQ6"
+    "logo_list_Xt8nQ6",
+    "newsletter_iEiCq3"
   ]
 }
