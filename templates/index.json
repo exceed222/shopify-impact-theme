@@ -186,7 +186,8 @@
         "logo_TX34Nh": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/samebike-icon-removebg-preview.png",
+            "logo_width": 300,
             "link": ""
           }
         },
