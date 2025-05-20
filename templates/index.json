@@ -202,7 +202,8 @@
         "logo_UriQmC": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/21_1.png",
+            "logo_width": 300,
             "link": ""
           }
         }
