@@ -252,6 +252,41 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "blog_posts_47XCgR": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_HcU3Gr": {
+          "type": "blog",
+          "settings": {
+            "blog": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_HcU3Gr"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -260,6 +295,7 @@
     "featured_collection_TE3Ngh",
     "text_with_icons_d47ytw",
     "logo_list_Xt8nQ6",
-    "newsletter_aDG4x4"
+    "newsletter_aDG4x4",
+    "blog_posts_47XCgR"
   ]
 }
