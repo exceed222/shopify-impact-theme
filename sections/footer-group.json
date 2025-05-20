@@ -13,6 +13,18 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "links_EzCxce": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        }
+      },
+      "block_order": [
+        "links_EzCxce"
+      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": false,
