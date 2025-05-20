@@ -50,68 +50,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "text_with_icons_eMRbTM": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_Q9HJqc": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-validation",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "#000000",
-            "icon_color": "#ff0000",
-            "title": "2-Metų Garantija",
-            "content": ""
-          }
-        },
-        "item_wBaVjx": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "#ff0000",
-            "title": "Nemokamas ir Greitas Pristatymas",
-            "content": ""
-          }
-        },
-        "item_fxWi7h": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 44,
-            "icon_width": 44,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "#ff0000",
-            "title": "Operatyvi pagalba",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_Q9HJqc",
-        "item_wBaVjx",
-        "item_fxWi7h"
-      ],
-      "custom_css": [],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "featured_collection_ciMrLP": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -162,6 +100,41 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "blog_posts_gR8Xgz": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_EwDdyN": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 2,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_EwDdyN"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Blog posts",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "logo_list_Xt8nQ6": {
@@ -243,9 +216,9 @@
   },
   "order": [
     "slideshow",
-    "text_with_icons_eMRbTM",
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
+    "blog_posts_gR8Xgz",
     "logo_list_Xt8nQ6",
     "newsletter_aDG4x4"
   ]
