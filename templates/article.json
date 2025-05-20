@@ -12,6 +12,10 @@
     "main": {
       "type": "main-article",
       "blocks": {
+        "navigation_8ebN4e": {
+          "type": "navigation",
+          "settings": {}
+        },
         "comments": {
           "type": "comments",
           "settings": {
@@ -21,6 +25,7 @@
         }
       },
       "block_order": [
+        "navigation_8ebN4e",
         "comments"
       ],
       "settings": {
