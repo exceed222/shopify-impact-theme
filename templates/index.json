@@ -56,7 +56,7 @@
       "settings": {
         "collection": "elektriniai-dviraciai",
         "products": [],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
         "show_progress_bar": true,
         "products_count": 5,
@@ -64,7 +64,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "Populiariausi pasiūlymai",
-        "content": "",
+        "content": "<p>Top modeliai aktyviam miesto gyvenimui<br/></p>",
         "link_url": "",
         "link_text": "Žr. Viska",
         "background": "",
