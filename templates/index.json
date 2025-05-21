@@ -281,13 +281,22 @@
             "logo_width": 300,
             "link": ""
           }
+        },
+        "logo_FgXM9E": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/19_7b2d14e5-b067-487a-920c-c180749bf221.png",
+            "logo_width": 300,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_AxUnE4",
         "logo_TX34Nh",
         "logo_4rG7zN",
-        "logo_UriQmC"
+        "logo_UriQmC",
+        "logo_FgXM9E"
       ],
       "name": "Logo list",
       "settings": {
