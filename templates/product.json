@@ -202,12 +202,11 @@
         "products": [
           "duotts-c29-pro",
           "duotts-e26",
-          "duotts-f20",
           "duotts-n26"
         ],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
+        "stack_products": false,
+        "show_progress_bar": true,
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
@@ -228,8 +227,8 @@
       "settings": {
         "full_width": true,
         "products_count": 6,
-        "stack_products": true,
-        "show_progress_bar": false,
+        "stack_products": false,
+        "show_progress_bar": true,
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
