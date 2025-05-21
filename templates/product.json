@@ -76,7 +76,7 @@
         "collapsible_text_nFcPyT": {
           "type": "collapsible_text",
           "settings": {
-            "title": "2-Metų Garantija.",
+            "title": "2-Metų Garantija",
             "content": "<p>Mūsų garantija apima visus naujų elektrinių dviračių gamybos defektus 2 metus nuo pirkimo datos. Jei laikomasi priežiūros standartų, mes suremontuosime jūsų elektrinį dviratį ir padengsime visas susijusias dalis, išlaidas bei darbų kainą. Jei reikia remonto arba dalys nėra įtrauktos į mūsų garantiją, praneškite mums, ir mes stengsimės padėti – dažniausiai galime diagnozuoti problemą ir atsiųsti mokamas atsargines dalis. Jei jūsų dviratis turi būti grąžintas remontui, bendradarbiausime su jumis, kad sumažintume išlaidas ir darbų apimtį.<br/><br/></p>"
           }
         },
@@ -127,9 +127,57 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_kBpNcA": {
+      "type": "tabs",
+      "blocks": {
+        "tab_VWDzz7": {
+          "type": "tab",
+          "settings": {
+            "title": "2-Metų Garantija",
+            "content": "<p>Mūsų garantija apima visus naujų elektrinių dviračių gamybos defektus 2 metus nuo pirkimo datos. Jei laikomasi priežiūros standartų, mes suremontuosime jūsų elektrinį dviratį ir padengsime visas susijusias dalis, išlaidas bei darbų kainą. Jei reikia remonto arba dalys nėra įtrauktos į mūsų garantiją, praneškite mums, ir mes stengsimės padėti – dažniausiai galime diagnozuoti problemą ir atsiųsti mokamas atsargines dalis. Jei jūsų dviratis turi būti grąžintas remontui, bendradarbiausime su jumis, kad sumažintume išlaidas ir darbų apimtį.</p>",
+            "page": ""
+          }
+        },
+        "tab_yWVnwJ": {
+          "type": "tab",
+          "settings": {
+            "title": "Pristatymas",
+            "content": "<p>Siuntimo laikas: Užsakymai paprastai išsiunčiami per 48 valandas nuo užsakymo pateikimo.<br/><br/>Pristatymo laikas: Remiantis mūsų patirtimi, siuntimo trukmė paprastai siekia 3–7 darbo dienas, tačiau tikslus laikas priklauso nuo vietinių pristatymo sąlygų.<br/><br/>Jokių papildomų mokesčių: Mėgaukitės patogiu apsipirkimu su mūsų standartiniu siuntimu! Nurodyta kaina yra galutinė – jokių papildomų mokesčių ar siuntimo išlaidų. Pirkite užtikrintai – tai, ką matote, yra tai, ką mokate, be paslėptų išlaidų.</p>",
+            "page": ""
+          }
+        },
+        "tab_VbLTmT": {
+          "type": "tab",
+          "settings": {
+            "title": "30-Dienų Grąžinimas",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_VWDzz7",
+        "tab_yWVnwJ",
+        "tab_VbLTmT"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "tabs_kBpNcA"
   ]
 }
