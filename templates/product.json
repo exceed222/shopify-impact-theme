@@ -199,7 +199,12 @@
       "name": "Related products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "duotts-c29-pro",
+          "duotts-e26",
+          "duotts-f20",
+          "duotts-n26"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
