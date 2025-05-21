@@ -42,12 +42,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -105,20 +99,6 @@
             "text_color": "#000000"
           }
         },
-        "offer_W73Wtg": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/guarantee.png",
-            "icon_width": 28,
-            "title": "Autentiškumo garantija",
-            "content": "<p>Pirkite autentiškai: išskirtinės privilegijos su Eleride</p>",
-            "background": "#ffffff",
-            "text_color": "#000000"
-          }
-        },
         "offer_q9DAhE": {
           "type": "offer",
           "settings": {
@@ -141,14 +121,12 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "vitals_payment_logos_imBMFp",
         "offer_ykaHiA",
         "offer_KNtg6q",
-        "offer_W73Wtg",
         "offer_q9DAhE"
       ],
       "settings": {
