@@ -102,6 +102,32 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_har9kc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hHpzxf": {
+          "type": "heading",
+          "settings": {
+            "text": "Atrask pasaulį ant dviejų ratų",
+            "heading_tag": "h1",
+            "text_color": "#efefef",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hHpzxf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_grid_RmACGY": {
       "type": "media-grid",
       "blocks": {
@@ -206,7 +232,7 @@
         "reduce_width": false,
         "desktop_row_height": 290,
         "mobile_row_height": 150,
-        "background": "",
+        "background": "#efefef",
         "background_gradient": ""
       }
     },
@@ -280,7 +306,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#f9f9f9",
+        "background": "#efefef",
         "background_gradient": "",
         "text_color": "#000000"
       }
@@ -433,7 +459,7 @@
         "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
         "button_text": "Pateikti",
         "subtext": "",
-        "background": "#e7e7e7",
+        "background": "#efefef",
         "background_gradient": "",
         "text_color": "",
         "button_background": "",
@@ -445,6 +471,7 @@
     "slideshow",
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
+    "rich_text_har9kc",
     "media_grid_RmACGY",
     "text_with_icons_d47ytw",
     "blog_posts_tXqriW",
