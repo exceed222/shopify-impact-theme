@@ -177,20 +177,20 @@
         "text_color": "#000000"
       }
     },
-    "blog_posts_wiA7pY": {
+    "blog_posts_tXqriW": {
       "type": "blog-posts",
       "blocks": {
-        "article_YQr68Y": {
+        "article_L4B3Rr": {
           "type": "article",
           "settings": {
-            "article": "kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai/kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai",
+            "article": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
             "background": "",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "article_YQr68Y"
+        "article_L4B3Rr"
       ],
       "name": "Featured blog post",
       "settings": {
@@ -212,20 +212,20 @@
         "heading_gradient": ""
       }
     },
-    "blog_posts_tXqriW": {
+    "blog_posts_NWwFzN": {
       "type": "blog-posts",
       "blocks": {
-        "article_L4B3Rr": {
+        "article_gEWwej": {
           "type": "article",
           "settings": {
-            "article": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+            "article": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai",
             "background": "",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "article_L4B3Rr"
+        "article_gEWwej"
       ],
       "name": "Featured blog post",
       "settings": {
@@ -338,8 +338,8 @@
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
     "text_with_icons_d47ytw",
-    "blog_posts_wiA7pY",
     "blog_posts_tXqriW",
+    "blog_posts_NWwFzN",
     "logo_list_Xt8nQ6",
     "newsletter_aDG4x4"
   ]
