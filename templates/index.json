@@ -177,6 +177,41 @@
         "text_color": "#000000"
       }
     },
+    "blog_posts_47XCgR": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_RJm3T4": {
+          "type": "blog",
+          "settings": {
+            "blog": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_RJm3T4"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_comments_count": false,
+        "show_category": true,
+        "subheading": "",
+        "title": "Naujausi tinklaraščio įrašai",
+        "content": "",
+        "link_url": "shopify://blogs/kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+        "link_text": "Žr. Viska",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "blog_posts_QfTfPA": {
       "type": "blog-posts",
       "blocks": {
@@ -234,7 +269,7 @@
         "logo_4rG7zN": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/19.png",
+            "logo": "shopify://shop_images/23.png",
             "logo_width": 300,
             "link": ""
           }
@@ -286,41 +321,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "blog_posts_47XCgR": {
-      "type": "blog-posts",
-      "blocks": {
-        "blog_RJm3T4": {
-          "type": "blog",
-          "settings": {
-            "blog": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-            "posts_count": 3,
-            "stack_items": false
-          }
-        }
-      },
-      "block_order": [
-        "blog_RJm3T4"
-      ],
-      "name": "Blog posts",
-      "settings": {
-        "full_width": true,
-        "show_excerpt": true,
-        "show_date": false,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "Naujausi tinklaraščio įrašai",
-        "content": "",
-        "link_url": "shopify://blogs/kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-        "link_text": "Žr. Viska",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     }
   },
