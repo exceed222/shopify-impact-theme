@@ -177,34 +177,34 @@
         "text_color": "#000000"
       }
     },
-    "blog_posts_47XCgR": {
+    "blog_posts_wiA7pY": {
       "type": "blog-posts",
       "blocks": {
-        "blog_RJm3T4": {
-          "type": "blog",
+        "article_YQr68Y": {
+          "type": "article",
           "settings": {
-            "blog": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-            "posts_count": 3,
-            "stack_items": false
+            "article": "kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai/kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "blog_RJm3T4"
+        "article_YQr68Y"
       ],
-      "name": "Blog posts",
+      "name": "Featured blog post",
       "settings": {
         "full_width": true,
         "show_excerpt": true,
         "show_date": false,
         "show_author": false,
-        "show_comments_count": false,
+        "show_comments_count": true,
         "show_category": true,
         "subheading": "",
-        "title": "Naujausi tinklaraščio įrašai",
+        "title": "",
         "content": "",
-        "link_url": "shopify://blogs/kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
-        "link_text": "Žr. Viska",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -212,34 +212,34 @@
         "heading_gradient": ""
       }
     },
-    "blog_posts_QfTfPA": {
+    "blog_posts_tXqriW": {
       "type": "blog-posts",
       "blocks": {
-        "blog_LCGyNV": {
-          "type": "blog",
+        "article_L4B3Rr": {
+          "type": "article",
           "settings": {
-            "blog": "kaip-priziureti-elektrini-dvirati-7-svarbiausi-patarimai",
-            "posts_count": 3,
-            "stack_items": false
+            "article": "kaip-issirinkti-elektrini-dvirati-savo-poreikiams/kaip-issirinkti-elektrini-dvirati-savo-poreikiams",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "blog_LCGyNV"
+        "article_L4B3Rr"
       ],
-      "name": "Blog posts",
+      "name": "Featured blog post",
       "settings": {
         "full_width": true,
         "show_excerpt": true,
         "show_date": false,
         "show_author": false,
-        "show_comments_count": false,
+        "show_comments_count": true,
         "show_category": true,
         "subheading": "",
         "title": "",
         "content": "",
         "link_url": "",
-        "link_text": "Žr. Viska",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -338,8 +338,8 @@
     "featured_collection_ciMrLP",
     "featured_collection_TE3Ngh",
     "text_with_icons_d47ytw",
-    "blog_posts_47XCgR",
-    "blog_posts_QfTfPA",
+    "blog_posts_wiA7pY",
+    "blog_posts_tXqriW",
     "logo_list_Xt8nQ6",
     "newsletter_aDG4x4"
   ]
