@@ -110,7 +110,7 @@
           "settings": {
             "text": "Atrask pasaulį ant dviejų ratų",
             "heading_tag": "h1",
-            "text_color": "#efefef",
+            "text_color": "#000000",
             "gradient": ""
           }
         }
@@ -123,7 +123,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#efefef",
         "background_gradient": "",
         "text_color": ""
       }
@@ -243,9 +243,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-validation",
+            "custom_icon": "shopify://shop_images/truck-removebg-preview.png",
             "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_width": 40,
+            "icon_background_type": "none",
             "icon_background": "#121212",
             "icon_color": "#ff0000",
             "title": "Greitas ir Nemokamas Pristatymas",
@@ -256,9 +257,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-validation",
+            "custom_icon": "shopify://shop_images/guarantee_57d7569d-d7cf-4c61-ad46-06e3ba620865.png",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "#121212",
             "icon_color": "#ff0000",
             "title": "2-Metų Garantija",
@@ -269,9 +271,10 @@
           "type": "item",
           "settings": {
             "icon": "picto-validation",
+            "custom_icon": "shopify://shop_images/lock-keyhole_c7ab195a-4c33-46d7-8adf-9829f9656ca3.png",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "#121212",
             "icon_color": "#ff0000",
             "title": "Saugus Mokėjimas",
@@ -284,7 +287,7 @@
             "icon": "picto-validation",
             "mobile_icon_width": 24,
             "icon_width": 32,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "#121212",
             "icon_color": "#ff0000",
             "title": "Pagalba 24/7",
