@@ -71,6 +71,12 @@
           "type": "shopify://apps/vitals/blocks/payment-logos/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {}
         },
+        "text_7qWxLC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🚗 Gauk iki 1000 € kompensacijos iš APVA!<br/>✅ Pridavei seną taršų automobilį? Pasinaudok galimybe atgauti pinigus!<br/><br/>Pirkdami šį elektrinį dviratį galite gauti 500 € kompensaciją iš APVA.<br/>Galima įsigyti 2 elektrinius dviračius ir gauti net 1000 € kompensaciją už vieną priduotą automobilį!<br/><br/>💡 Mes pateikiame visus reikalingus dokumentus APVA paraiškai.</p>"
+          }
+        },
         "offer_ykaHiA": {
           "type": "offer",
           "settings": {
@@ -125,6 +131,7 @@
         "quantity_selector",
         "buy_buttons",
         "vitals_payment_logos_imBMFp",
+        "text_7qWxLC",
         "offer_ykaHiA",
         "offer_KNtg6q",
         "offer_q9DAhE"
