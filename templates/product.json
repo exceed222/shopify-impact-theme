@@ -157,6 +157,14 @@
     "tabs_kBpNcA": {
       "type": "tabs",
       "blocks": {
+        "tab_nkT3mY": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifikacijos",
+            "content": "",
+            "page": ""
+          }
+        },
         "tab_VWDzz7": {
           "type": "tab",
           "settings": {
@@ -183,6 +191,7 @@
         }
       },
       "block_order": [
+        "tab_nkT3mY",
         "tab_VWDzz7",
         "tab_yWVnwJ",
         "tab_VbLTmT"
@@ -250,23 +259,6 @@
         "product_card_text_color": ""
       }
     },
-    "newsletter_maxqVK": {
-      "type": "newsletter",
-      "name": "Newsletter",
-      "settings": {
-        "full_width": true,
-        "show_icon": false,
-        "title": "Naujienlaiškis",
-        "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
-        "button_text": "Pateikti",
-        "subtext": "",
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "1747930357bb2595cf": {
       "type": "apps",
       "blocks": {
@@ -290,6 +282,23 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
+      }
+    },
+    "newsletter_maxqVK": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Naujienlaiškis",
+        "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
+        "button_text": "Pateikti",
+        "subtext": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
