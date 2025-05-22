@@ -249,12 +249,30 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "newsletter_maxqVK": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Naujienlaiškis",
+        "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
+        "button_text": "Pateikti",
+        "subtext": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "tabs_kBpNcA",
     "related_products_3nGQJC",
-    "recently_viewed_products_bW4JXC"
+    "recently_viewed_products_bW4JXC",
+    "newsletter_maxqVK"
   ]
 }
