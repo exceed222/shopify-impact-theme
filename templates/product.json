@@ -161,7 +161,7 @@
           "type": "tab",
           "settings": {
             "title": "Specifikacijos",
-            "content": "",
+            "content": "<p>.</p>",
             "page": ""
           }
         },
