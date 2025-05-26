@@ -1,0 +1,313 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#121212",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "vitals_payment_logos_imBMFp": {
+          "type": "shopify://apps/vitals/blocks/payment-logos/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "text_7qWxLC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🚗 Gauk iki 1000 € kompensacijos iš APVA!<br/>✅ Pridavei seną taršų automobilį? Pasinaudok galimybe atgauti pinigus!<br/><br/>Pirkdami šį elektrinį dviratį galite gauti 500 € kompensaciją iš APVA.<br/>Galima įsigyti 2 elektrinius dviračius ir gauti net 1000 € kompensaciją už vieną priduotą automobilį!<br/><br/>💡 Mes pateikiame visus reikalingus dokumentus APVA paraiškai.</p>"
+          }
+        },
+        "offer_ykaHiA": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/truck.png",
+            "icon_width": 28,
+            "title": "Nemokamas Pristatymas",
+            "content": "<p>Nemokamas pristatymas visiems užsakymams</p>",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "offer_KNtg6q": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/return.png",
+            "icon_width": 28,
+            "title": "Nemokamas grąžinimas",
+            "content": "<p>14-Dienų grąžinimas be jokių rūpesčių</p>",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "offer_q9DAhE": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/lock-keyhole.png",
+            "icon_width": 28,
+            "title": "Saugus Atsiskaitymas",
+            "content": "<p>Greiti ir apsaugoti atsiskaitymai</p>",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "vitals_payment_logos_imBMFp",
+        "text_7qWxLC",
+        "offer_ykaHiA",
+        "offer_KNtg6q",
+        "offer_q9DAhE"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_kBpNcA": {
+      "type": "tabs",
+      "blocks": {
+        "tab_nkT3mY": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifikacijos",
+            "content": "<p>.</p>",
+            "page": ""
+          }
+        },
+        "tab_yWVnwJ": {
+          "type": "tab",
+          "settings": {
+            "title": "Pristatymas",
+            "content": "<h3>🚚 Pristatymo informacija</h3><p>Užsakymai paprastai išsiunčiami <strong>per 48 valandas</strong> nuo jų pateikimo.</p><p>Remiantis mūsų patirtimi, siuntimo trukmė paprastai siekia <strong>3–7 darbo dienas</strong>, tačiau tikslus laikas gali skirtis priklausomai nuo jūsų gyvenamosios vietos bei vietinių pristatymo sąlygų.</p><p><strong>Mėgaukitės patogiu apsipirkimu</strong> su mūsų standartiniu siuntimu! Nurodyta kaina yra <strong>galutinė</strong> – <span style=\"text-decoration:underline\">jokių papildomų mokesčių ar siuntimo išlaidų</span>.</p><p>Pirkite užtikrintai – <strong>tai, ką matote, yra tai, ką mokate</strong>, be paslėptų mokesčių ar netikėtų papildomų išlaidų.</p>",
+            "page": ""
+          }
+        },
+        "tab_VWDzz7": {
+          "type": "tab",
+          "settings": {
+            "title": "Garantija",
+            "content": "<h3>🛠️ Garantinis aptarnavimas</h3><p>Visoms mūsų parduodamoms prekėms taikoma gamintojo garantija. Kadangi dirbame su skirtingais tiekėjais, garantijos sąlygos gali skirtis priklausomai nuo prekės ženklo ar gamintojo, tačiau visada siekiame užtikrinti sklandų ir sąžiningą procesą.</p><h4>Ką apima garantija?</h4><p>Gamybos defektus (variklis, valdiklis, baterija, įkroviklis, rėmas ir kt.)</p><p>Neveikiančias ar sugedusias dalis dėl gamybinių klaidų įprasto naudojimo metu.</p><p><strong>Dėvimos dalys</strong>, kurios dažniausiai nėra dengiamos garantija:</p><p>Stabdžių kaladėlės, padangos, grandinės, žibintai, kameros ir kt.</p><p>Žala dėl netinkamo naudojimo, nelaimių, aplinkos poveikio ar modifikacijų.</p><p>Kaip pateikti garantinį prašymą?</p><p>Pastebėjus galimą gedimą:</p><p>Susisiekite su mumis el. paštu: <a href=\"mailto:info@eleride.lt\">info@eleride.lt</a></p><p>Laiške nurodykite užsakymo numerį, prekės modelį, problemos aprašymą</p><p>Pridėkite nuotraukas ar vaizdo įrašą, kur matoma problema</p><p>Mūsų komanda įvertins situaciją ir, bendradarbiaujant su tiekėju, pateiks sprendimą: atsarginės dalys, remontas ar kiti veiksmai.</p><h4> Transportavimo pažeidimai</h4><p>Jei prekė buvo pažeista transportavimo metu, praneškite apie tai <strong>per 3 darbo dienas</strong>. Pateikite nuotraukas ir neišmeskite pakuotės iki atvejo išsprendimo.</p><h4><strong>Garantijos terminai</strong></h4><p>Varikliui, rėmui, valdikliui, įkrovikliui – iki 24 mėn. Baterijai – iki 12 mėn.</p><h4>Pagalba ir konsultacijos</h4><p>Turite klausimų? Kreipkitės: <a href=\"mailto:info@eleride.lt\">info@eleride.lt</a> – visada padėsime!</p>",
+            "page": ""
+          }
+        },
+        "tab_VbLTmT": {
+          "type": "tab",
+          "settings": {
+            "title": "14-Dienų Grąžinimas",
+            "content": "<h3>📦 14 dienų grąžinimo teisė</h3><p>Pagal Lietuvos Respublikos teisę, vartotojai turi teisę per <strong>14 kalendorinių dienų</strong> grąžinti prekę be jokios priežasties, jei pirkimas buvo atliktas nuotoliniu būdu (internetu).</p><h4>Grąžinimo sąlygos:</h4><p>Prekė turi būti <strong>nenaudota</strong>, <strong>nepažeista</strong>, <strong>nepraradusi prekinės išvaizdos</strong> (nepažeistos plėvelės, švarios padangos, neįbrėžtas paviršius ir kt.).</p><p>Turi būti grąžinta originalioje pakuotėje, su visais priedais.</p><p>Reikalingas pirkimo įrodymas (sąskaita faktūra arba mokėjimo išrašas).</p><p><strong>Grąžinimo išlaidas</strong> padengia pirkėjas, nebent prekė buvo brokuota ar su defektu.</p><h4>Negrąžinamos prekės:</h4><p>Naudotos ar mechaniškai pažeistos transporto priemonės (pvz., su važiavimo ženklais ar įbrėžimais).</p><p>Individualiai užsakytos ar modifikuotos pagal kliento pageidavimus prekės.</p><p>Elektrinės transporto priemonės, jei naudotas akumuliatorius ar jos buvo eksploatuojamos daugiau nei bandomuoju režimu.</p><h4>Kaip grąžinti prekę?</h4><p>Susisiekite su mumis el. paštu: <a href=\"mailto:info@eleride.lt\">info@eleride.lt</a> per 14 dienų nuo prekės gavimo.</p><p>Laiške nurodykite:</p><p>* Užsakymo numerį</p><p>* Prekės pavadinimą/modelį</p><p>* Pageidaujamos grąžinimo priežasties aprašymą (neprivaloma)</p><p>Mūsų komanda pateiks tolimesnes instrukcijas.</p><h4>Pinigų grąžinimas</h4><p>Gavę ir patikrinę grąžintą prekę, pinigus pervesime <strong>per 14 dienų</strong> nuo jos gavimo dienos. Pinigai grąžinami į tą pačią sąskaitą, iš kurios buvo atliktas mokėjimas.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_nkT3mY",
+        "tab_yWVnwJ",
+        "tab_VWDzz7",
+        "tab_VbLTmT"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related_products_3nGQJC": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "duotts-c29-pro",
+          "duotts-e26",
+          "duotts-n26"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Jums taip pat gali patikti",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "recently_viewed_products_bW4JXC": {
+      "type": "recently-viewed-products",
+      "name": "Recently viewed products",
+      "settings": {
+        "full_width": true,
+        "products_count": 6,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Neseniai peržiūrėtos prekės",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "1747930357bb2595cf": {
+      "type": "apps",
+      "blocks": {
+        "vitals_product_reviews_VftmPx": {
+          "type": "shopify://apps/vitals/blocks/product-reviews/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vitals_product_reviews_VftmPx"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "newsletter_maxqVK": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "Naujienlaiškis",
+        "content": "<p>Užsiregistruokite ir gaukite naujausią informaciją apie naujus leidinius ir daugiau.</p>",
+        "button_text": "Pateikti",
+        "subtext": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_kBpNcA",
+    "related_products_3nGQJC",
+    "recently_viewed_products_bW4JXC",
+    "1747930357bb2595cf",
+    "newsletter_maxqVK"
+  ]
+}
