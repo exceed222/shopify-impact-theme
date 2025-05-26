@@ -161,7 +161,15 @@
           "type": "tab",
           "settings": {
             "title": "Specifikacijos",
-            "content": "<p>Variklis2 x 750W bešepetėliniaiBaterija48V 20Ah (Samsung Cells)Maks. greitisIki 50 km/hRėmasAliuminio lydinys, 29 coliųMaks. atstumasIki 100 km (su pedalų pagalba)Pavarų sistemaShimano 21 greitisStabdžiaiHidrauliniai diskiniaiPadangos29 x 2.1 colioSvorisApie 35 kg</p>",
+            "content": "",
+            "page": ""
+          }
+        },
+        "tab_RK4QmU": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifikacijos",
+            "content": "<p>.</p>",
             "page": ""
           }
         },
@@ -192,6 +200,7 @@
       },
       "block_order": [
         "tab_nkT3mY",
+        "tab_RK4QmU",
         "tab_yWVnwJ",
         "tab_VWDzz7",
         "tab_VbLTmT"
