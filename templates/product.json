@@ -169,7 +169,7 @@
           "type": "tab",
           "settings": {
             "title": "Aprašymas",
-            "content": "<p>.</p>",
+            "content": "<p>🚴♂️ Pagrindiniai privalumai:<br/>*1000W variklis – pasiekite iki 55 km/h greitį be vargo.<br/>*15Ah baterija – nuvažiuokite iki 100 km su vienu įkrovimu.<br/>*29 colių ratai – stabilumui ir komfortui įvairiomis sąlygomis.<br/>*Shimano 21 pavarų sistema – lengvas prisitaikymas prie bet kokio reljefo.<br/>*Priekinė amortizacija – sklandžiam važiavimui net nelygiuose keliuose.<br/>*IP54 atsparumas vandeniui – važiuokite be rūpesčių bet kokiu oru.</p><p>📊 Techninės specifikacijos:<br/>*Variklis: 1000W galinis stebulės variklis<br/>*Baterija: 48V 15Ah (nuimama)<br/>*Maksimalus greitis: iki 55 km/h<br/>*Nuvažiuojamas atstumas: iki 100 km (su pedalų asistavimu)<br/>*Pavaros: Shimano 21 greičių sistema<br/>*Stabdžiai: Priekiniai ir galiniai diskiniai <br/>*Ratai: 29 colių su 2.1 colių pločio padangomis<br/>*Svoris: 26 kg<br/>*Maksimali apkrova: iki 120 kg<br/>🛒 Kodėl verta rinktis DUOTTS C29?<br/>DUOTTS C29 sujungia galią, komfortą ir patikimumą už prieinamą kainą. Tai puikus pasirinkimas tiek kasdienėms kelionėms mieste, tiek savaitgalio išvykoms į gamtą. Su šiuo dviračiu kiekviena kelionė taps malonumu.</p>",
             "page": ""
           }
         },
@@ -205,7 +205,6 @@
         "tab_VWDzz7",
         "tab_VbLTmT"
       ],
-      "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -221,7 +220,6 @@
     },
     "related_products_3nGQJC": {
       "type": "related-products",
-      "name": "Related products",
       "settings": {
         "recommendations_count": 6,
         "products": [
@@ -248,7 +246,6 @@
     },
     "recently_viewed_products_bW4JXC": {
       "type": "recently-viewed-products",
-      "name": "Recently viewed products",
       "settings": {
         "full_width": true,
         "products_count": 6,
@@ -295,7 +292,6 @@
     },
     "newsletter_maxqVK": {
       "type": "newsletter",
-      "name": "Newsletter",
       "settings": {
         "full_width": true,
         "show_icon": false,
