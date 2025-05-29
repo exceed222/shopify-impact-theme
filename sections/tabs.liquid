@@ -35,11 +35,14 @@
           <div class="sm:hidden">
             {%- for block in section.blocks -%}
               {%- assign title = block.settings.title | default: block.settings.page.title -%}
-              {%- assign content = block.settings.page.content | default: block.settings.content -%}
+              {%- if block.settings.title == 'Aprašymas' %}
+                {%- assign content = product.description -%}
+              {%- else -%}
+                {%- assign content = block.settings.page.content | default: block.settings.content -%}
+              {%- endif -%}
 
               {%- if title and content -%}
                 {%- assign open = false -%}
-
                 {%- if forloop.first and section.settings.first_tab_open -%}
                   {%- assign open = true -%}
                 {%- endif -%}
@@ -61,7 +64,11 @@
 
             {%- for block in section.blocks -%}
               {%- assign title = block.settings.title | default: block.settings.page.title -%}
-              {%- assign content = block.settings.page.content | default: block.settings.content -%}
+              {%- if block.settings.title == 'Aprašymas' %}
+                {%- assign content = product.description -%}
+              {%- else -%}
+                {%- assign content = block.settings.page.content | default: block.settings.content -%}
+              {%- endif -%}
 
               {%- if title != blank and content != blank -%}
                 <button type="button" slot="title" class="tabs-nav__button bold text-subdued text-center" {{ block.shopify_attributes }}>{{ title | escape }}</button>
@@ -76,6 +83,8 @@
     </div>
   </div>
 {%- endif -%}
+
+
 
 {% schema %}
 {
