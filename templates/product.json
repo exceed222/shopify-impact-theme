@@ -157,14 +157,6 @@
     "tabs_kBpNcA": {
       "type": "tabs",
       "blocks": {
-        "tab_nkT3mY": {
-          "type": "tab",
-          "settings": {
-            "title": "Specifikacijos",
-            "content": "",
-            "page": ""
-          }
-        },
         "tab_RK4QmU": {
           "type": "tab",
           "settings": {
@@ -199,7 +191,6 @@
         }
       },
       "block_order": [
-        "tab_nkT3mY",
         "tab_RK4QmU",
         "tab_yWVnwJ",
         "tab_VWDzz7",
