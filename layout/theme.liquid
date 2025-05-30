@@ -85,7 +85,19 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-    <<div id="paysera-badge-wrapper" style="position: fixed; bottom: 20px; left: 20px; z-index: 9999;">
+    <!-- Paysera badge override -->
+<style>
+  #paysera-badge-wrapper {
+    left: 20px !important;
+    right: auto !important;
+  }
+  #paysera-badge-wrapper iframe {
+    left: 0 !important;
+    right: auto !important;
+  }
+</style>
+
+<div id="paysera-badge-wrapper" style="position: fixed; bottom: 20px; left: 20px; z-index: 9999;">
   <script type="text/javascript" charset="utf-8">
     var wtpQualitySign_projectId  = 251101;
     var wtpQualitySign_language   = "lt";
