@@ -171,10 +171,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".hero-wrapper {position: relative; width: 100%; height: 360px; overflow: hidden;}",
-      ".hero-wrapper img {width: 100%; height: 100%; object-fit: cover;}",
-      ".hero-btn {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: white; color: black; padding: 10px 20px; font-size: 14px; border-radius: 8px; font-weight: 600; text-decoration: none; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);}",
-      "@media screen and (max-width: 768px) {.hero-wrapper {height: 300px; } .hero-btn {font-size: 13px; padding: 8px 16px; }}"
+      "@media screen and (max-width: 768px) {.slideshow__slide .prose {display: flex !important; justify-content: center !important; align-items: center !important; height: 100% !important; padding: 0 !important; } .slideshow__slide .button--xl {padding: 6px 12px !important; font-size: 13px !important; border-radius: 5px !important; font-weight: 600 !important; background-color: rgba(255, 255, 255, 0.95) !important; color: black !important; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1) !important; }}"
     ]
   }
 }
