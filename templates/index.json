@@ -12,6 +12,27 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_iUGJRr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image-Photoroom_2.png",
+            "content_max_width": 800,
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "Sužinoti daugiau",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "slide-1": {
           "type": "image",
           "settings": {
@@ -20,23 +41,46 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
+            "subheading": "Išlaisvink nuotykių dvasią – važiuok toliau, greičiau, be ribų.",
+            "title": "Atrask gamtą iš naujo – su elektriniu dviračiu",
             "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "NAUJA SAMEBIKE SERIJA",
+            "button_link": "https://eleride.lt/search?q=SAMEBIKE&type=product",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 55,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_N9AqkV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_3.png",
+            "content_max_width": 900,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Elektrodviračiai, kuriuos renkasi nuotykių ieškotojai.",
+            "title": "Sukurti ilgoms kelionėms, pritaikyti tau",
+            "heading_tag": "h0",
+            "button_text": "GALINGI EAHORA DVIRAČIAI",
+            "button_link": "https://eleride.lt/search?q=eAhora&type=product",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 55,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-1"
+        "image_iUGJRr",
+        "slide-1",
+        "image_N9AqkV"
       ],
       "settings": {
         "full_width": true,
