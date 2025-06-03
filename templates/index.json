@@ -61,18 +61,18 @@
           "settings": {
             "image": "shopify://shop_images/Screenshot_3.png",
             "content_max_width": 900,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
+            "title": "Miestui. Miškui. Nuotykiui. - Eleride elektriniai dviračiai",
+            "heading_tag": "h5",
             "button_text": "Visi dviračiai",
             "button_link": "https://eleride.lt/collections/elektriniai-dviraciai",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "overlay_opacity": 21,
             "background": "",
             "background_gradient": ""
           }
